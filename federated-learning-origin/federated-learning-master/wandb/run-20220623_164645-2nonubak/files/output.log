@@ -1,0 +1,20 @@
+C:\Users\H\AppData\Roaming\Python\Python39\site-packages\torchvision\datasets\mnist.py:65: UserWarning: train_labels has been renamed targets
+  warnings.warn("train_labels has been renamed targets")
+MLP(
+  (layer_input): Linear(in_features=784, out_features=200, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.5, inplace=False)
+  (layer_hidden): Linear(in_features=200, out_features=10, bias=True)
+)
+Round   0, Average loss 0.144
+Round   1, Average loss 0.112
+Round   2, Average loss 0.083
+Round   3, Average loss 0.069
+Round   4, Average loss 0.088
+Round   5, Average loss 0.069
+Round   6, Average loss 0.082
+Round   7, Average loss 0.073
+Round   8, Average loss 0.080
+Round   9, Average loss 0.061
+Training accuracy: 68.96
+Testing accuracy: 68.37

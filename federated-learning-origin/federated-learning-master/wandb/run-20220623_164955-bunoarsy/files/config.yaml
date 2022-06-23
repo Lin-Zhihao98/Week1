@@ -1,0 +1,98 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.18
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.9.12
+    start_time: 1655974196
+    t:
+      1:
+      - 1
+      - 5
+      - 41
+      - 53
+      - 55
+      4: 3.9.12
+      5: 0.12.18
+      8:
+      - 3
+      - 5
+all_clients:
+  desc: null
+  value: false
+bs:
+  desc: null
+  value: 128
+dataset:
+  desc: null
+  value: mnist
+device:
+  desc: null
+  value: cuda:0
+epochs:
+  desc: null
+  value: 10
+frac:
+  desc: null
+  value: 0.1
+gpu:
+  desc: null
+  value: 0
+iid:
+  desc: null
+  value: false
+kernel_num:
+  desc: null
+  value: 9
+kernel_sizes:
+  desc: null
+  value: 3,4,5
+local_bs:
+  desc: null
+  value: 10
+local_ep:
+  desc: null
+  value: 5
+lr:
+  desc: null
+  value: 0.01
+max_pool:
+  desc: null
+  value: 'True'
+model:
+  desc: null
+  value: mlp
+momentum:
+  desc: null
+  value: 0.5
+norm:
+  desc: null
+  value: batch_norm
+num_channels:
+  desc: null
+  value: 3
+num_classes:
+  desc: null
+  value: 10
+num_filters:
+  desc: null
+  value: 32
+num_users:
+  desc: null
+  value: 100
+seed:
+  desc: null
+  value: 1
+split:
+  desc: null
+  value: user
+stopping_rounds:
+  desc: null
+  value: 10
+verbose:
+  desc: null
+  value: false

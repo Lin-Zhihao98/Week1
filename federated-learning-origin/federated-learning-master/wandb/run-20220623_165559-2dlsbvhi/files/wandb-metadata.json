@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-06-23T08:56:03.368141",
+    "startedAt": "2022-06-23T08:55:59.789136",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2070 with Max-Q Design",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\H\\Desktop\\MQ-Thesis\\code\\federated-learning-origin\\federated-learning-master\\main_fed.py",
+    "codePath": "main_fed.py",
+    "host": "DESKTOP-PEE0ML6",
+    "username": "H",
+    "executable": "D:\\Program\\Anaconda\\python.exe"
+}
